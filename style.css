@@ -27,7 +27,7 @@ line-height: 24px;
   width: 13em;
   border: 2px solid white;
   border-radius: 0%;
-  margin-left: 7em;
+  margin-left: 4.6em;
   margin-top: 5em;
 }
 
@@ -37,8 +37,21 @@ line-height: 24px;
   font-size: 67px;
   color: white;
   line-height: 67px;
-  margin-left: 2.5em;
+  margin-left: 1.6em;
 
+}
+
+.background-content h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 17px;
+  color: white;
+  padding: 3px;
+  border: 2px solid #efc10a;
+  border-radius: 0%;
+  width: 10em;
+  background-color: #efc10a;
+  margin-left: 6.7em;
 }
 
 /*      BACKGROUND VIDEO YOUTUBE:       ;*/
